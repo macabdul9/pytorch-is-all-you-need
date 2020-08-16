@@ -18,6 +18,7 @@ Feel free to create Issue/PR, I will be glad to collaborate
 
 ### 3. Advanced 
 
+
 ## Topic
 
 ### 1. NLP 
@@ -32,9 +33,7 @@ Feel free to create Issue/PR, I will be glad to collaborate
 
 # Getting Started
 
-Create python virtual environment using environment.yml or requirements.txt
-
-- It is strongly recommended to create virtual environment to avoid dependency conflict
+- Create python virtual environment using **conda and environment.yml** or **virtuanev and install the dependencies from requirements.txt**, It is not necessary but strongly recommended to create virtual environment to avoid dependency conflict.
 - Launch **Jupyter Notebook** or **Jupyter Lab** and you will be ready to execute the notebook.
 - Some models may need a GPU to train on local machine otherwise you can use free GPU powered environment offered by [Google Colab](https://colab.research.google.com/) or [Kaggle Kernel](https://www.kaggle.com/)  
 
@@ -51,7 +50,6 @@ Create python virtual environment using environment.yml or requirements.txt
 **[4].** [Yunjey Choi's PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 **[5].** [Alfredo Canziani's Tutorals](https://github.com/Atcold)
-
 
 
 ### To-do: Complete the **Table of Content**
