@@ -3,13 +3,12 @@
 ![alt text](assets/pytorch.png)
 
 
-This repository has deep learning turtorials from basic to some advanced level, implemented using [PyTorch](https://pytorch.org/) and [PyTorch-Lightning](https://github.com/PyTorchLightning/pytorch-lightning) (ocasionally). This work is mostly inspired by [Alfredo Canziani's](https://github.com/Atcold) [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) and [Yunjey Choi's](https://github.com/yunjey) [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+This repository has deep learning tutorials from basic to some advanced level, implemented using [PyTorch](https://pytorch.org/) and [PyTorch-Lightning](https://github.com/PyTorchLightning/pytorch-lightning) (occasionally). This work is mostly inspired by [Alfredo Canziani's](https://github.com/Atcold) [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) and [Yunjey Choi's](https://github.com/yunjey) [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial). The code in this repository is more readable and beginner friendly and often have useful descriptive comments. 
 
-- Feel free to create Issues and PR's I will be glad to respond
+Feel free to create Issue/PR, I will be glad to collaborate
 
-To-do: 
 
-# Table of Content
+# Table of Contents
 
 ## Difficulty Level
 
@@ -43,14 +42,16 @@ Create python virtual environment using environment.yml or requirements.txt
 
 # References
 
-**[1].** PyTroch Tutorial: https://pytorch.org/tutorials/
+**[1].** [PyTorch Official Tutorial](https://pytorch.org/tutorials/)
 
-**[2].** Ben Trevett's Tutorials: https://github.com/bentrevett
+**[2].** [Ben Trevett's Tutorials](https://github.com/bentrevett)
 
-**[3].** PyTorch-Lightning Tutorials: https://pytorch-lightning.readthedocs.io/en/latest/
+**[3].** [PyTorch-Lightning Tutorials](https://pytorch-lightning.readthedocs.io/en/latest/)
 
-**[4].** Yunjey Choi's PyTorch Tutorial:  https://github.com/yunjey/pytorch-tutorial
+**[4].** [Yunjey Choi's PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
-**[5].** Alfredo Canziani's Tutorals:
- https://github.com/Atcold
+**[5].** [Alfredo Canziani's Tutorals](https://github.com/Atcold)
+
+
+To-do: Complete the **Table of Content**
 
