@@ -1,18 +1,47 @@
-# deep-learning-with-pytorch
-Deep Learning with PyTorch and PyTorch-Lightning
+# PyTorch is all you need
+
+![alt text](assets/pytorch.png)
+
+
+This repository has deep learning turtorials from basic to some advanced level, implemented using [PyTorch](https://pytorch.org/) and [PyTorch-Lightning](https://github.com/PyTorchLightning/pytorch-lightning) (ocasionally). This work is mostly inspired by [Alfredo Canziani's](https://github.com/Atcold) [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) and [Yunjey Choi's](https://github.com/yunjey) [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+
+- Feel free to create Issues and PR's I will be glad to respond
+
+To-do: 
+
+# Table of Content
+
+## Difficulty Level
+
+### 1. Basic
+
+### 2. Intermediate
+
+### 3. Advanced 
+
+## Topic
+
+### 1. NLP 
+
+### 2. Computer Vision
+
+### 3. NLP-CV Intersection
+
+### 4. Miscellaneous
 
 
 
-### Create conda environment using environment.yml or requirements.txt
+# Getting Started
 
+Create python virtual environment using environment.yml or requirements.txt
 
 - It is strongly recommended to create virtual environment to avoid dependency conflict
-- Feel free to create PR or Issue.
+- Launch **Jupyter Notebook** or **Jupyter Lab** and you will be ready to execute the notebook.
+- Some models may need a GPU to train on local machine otherwise you can use free GPU powered environment offered by [Google Colab](https://colab.research.google.com/) or [Kaggle Kernel](https://www.kaggle.com/)  
 
 
-### References
 
-A lots of stuffs are inspired by these:
+# References
 
 **[1].** PyTroch Tutorial: https://pytorch.org/tutorials/
 
@@ -24,3 +53,4 @@ A lots of stuffs are inspired by these:
 
 **[5].** Alfredo Canziani's Tutorals:
  https://github.com/Atcold
+
