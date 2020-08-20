@@ -12,6 +12,8 @@ Feel free to create Issue/PR, I will be glad to collaborate
 
 ## Difficulty Level
 
+- Subdirs 
+
 ### 1. Basic
 
 ### 2. Intermediate
@@ -21,6 +23,7 @@ Feel free to create Issue/PR, I will be glad to collaborate
 
 ## Topic
 
+- Notebooks
 ### 1. NLP 
 
 ### 2. Computer Vision
