@@ -44,6 +44,7 @@ Feel free to create Issue/PR, I will be glad to collaborate
 
 # References
 
+
 **[1].** [PyTorch Official Tutorial](https://pytorch.org/tutorials/)
 
 **[2].** [Ben Trevett's Tutorials](https://github.com/bentrevett)
@@ -53,6 +54,10 @@ Feel free to create Issue/PR, I will be glad to collaborate
 **[4].** [Yunjey Choi's PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 **[5].** [Alfredo Canziani's Tutorals](https://github.com/Atcold)
+
+
+
+
 
 
 ### To-do: Complete the **Table of Content**
