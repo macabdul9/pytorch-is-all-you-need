@@ -2,10 +2,12 @@
 
 ![alt text](assets/pytorch.png)
 
+# Feel free to create Issue/PR, I will be glad to collaborate
+
 
 This repository has deep learning tutorials from basic to some advanced level, implemented using [PyTorch](https://pytorch.org/) and [PyTorch-Lightning](https://github.com/PyTorchLightning/pytorch-lightning) (occasionally). This work is mostly inspired by [Alfredo Canziani's](https://github.com/Atcold) [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) and [Yunjey Choi's](https://github.com/yunjey) [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial). The code in this repository is more readable and beginner friendly and often have useful descriptive comments. 
 
-Feel free to create Issue/PR, I will be glad to collaborate
+
 
 
 # Table of Contents
