@@ -62,5 +62,5 @@ This repository has deep learning tutorials from basic to some advanced level, i
 
 
 
-### To-do: Complete the **Table of Content**
+#### To-do: Complete the **Table of Content**
 
